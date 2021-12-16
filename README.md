@@ -38,7 +38,7 @@ To Visit App:
 Clone the project
 
 ```bash
-  git clone https://project-link
+  git clone https://github.com/theCodeNilesh/realtime-contact-app.git
 ```
 
 Go to the project directory
