@@ -1,7 +1,7 @@
 
 # Project Title
 
-Shopping Cart Application
+Contact Application Using Realtime Database
 
 An application created using ```ReactJS``` to store a contacts in a database using to ```Firebase Realtime Database``` and ```Storage```.
 
